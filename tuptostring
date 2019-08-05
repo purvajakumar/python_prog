@@ -1,0 +1,3 @@
+tup=('h','e','l','o')
+str1=''.join(tup)
+print(str1)
